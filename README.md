@@ -1,2 +1,2 @@
-# pomodolee
-This is app for improving your learning with Pomodoro method.
+# pomodolee-app
+This is an app for improving your learning with the Pomodoro method.
